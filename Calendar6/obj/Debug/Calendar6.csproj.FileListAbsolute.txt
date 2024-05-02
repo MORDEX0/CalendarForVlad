@@ -1,0 +1,17 @@
+C:\Users\MIKHAIL\source\repos\Calendar6\Calendar6\bin\Debug\Calendar6.exe.config
+C:\Users\MIKHAIL\source\repos\Calendar6\Calendar6\bin\Debug\Calendar6.exe
+C:\Users\MIKHAIL\source\repos\Calendar6\Calendar6\bin\Debug\Calendar6.pdb
+C:\Users\MIKHAIL\source\repos\Calendar6\Calendar6\obj\Debug\Calendar6.csproj.AssemblyReference.cache
+C:\Users\MIKHAIL\source\repos\Calendar6\Calendar6\obj\Debug\Calendar6.csproj.SuggestedBindingRedirects.cache
+C:\Users\MIKHAIL\source\repos\Calendar6\Calendar6\obj\Debug\View\MainWindow.g.cs
+C:\Users\MIKHAIL\source\repos\Calendar6\Calendar6\obj\Debug\App.g.cs
+C:\Users\MIKHAIL\source\repos\Calendar6\Calendar6\obj\Debug\Calendar6_MarkupCompile.cache
+C:\Users\MIKHAIL\source\repos\Calendar6\Calendar6\obj\Debug\Calendar6_MarkupCompile.lref
+C:\Users\MIKHAIL\source\repos\Calendar6\Calendar6\obj\Debug\View\MainWindow.baml
+C:\Users\MIKHAIL\source\repos\Calendar6\Calendar6\obj\Debug\Calendar6.g.resources
+C:\Users\MIKHAIL\source\repos\Calendar6\Calendar6\obj\Debug\Calendar6.Properties.Resources.resources
+C:\Users\MIKHAIL\source\repos\Calendar6\Calendar6\obj\Debug\Calendar6.csproj.GenerateResource.cache
+C:\Users\MIKHAIL\source\repos\Calendar6\Calendar6\obj\Debug\Calendar6.csproj.CoreCompileInputs.cache
+C:\Users\MIKHAIL\source\repos\Calendar6\Calendar6\obj\Debug\Calendar6.exe
+C:\Users\MIKHAIL\source\repos\Calendar6\Calendar6\obj\Debug\Calendar6.pdb
+C:\Users\MIKHAIL\source\repos\Calendar6\Calendar6\obj\Debug\GeneratedInternalTypeHelper.g.cs
